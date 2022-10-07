@@ -1,13 +1,9 @@
 # HacktoberfestRepo_2022
 
-## 👉 Add any project or algorithm in any programming language
+## 👉 Add any project or algorithm in any programming language (C/C++/Python)
 - 🪄 C
 - 🪄 C++
-- 🪄 C#
-- 🪄 PHP
-- 🪄 Java
 - 🪄 Python
-- 🪄 Javascript
 
 ### In each respective folder on any topic, don't forget to read the rules below to get your pull request accepted.
  
