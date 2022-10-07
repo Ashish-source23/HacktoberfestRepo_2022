@@ -1,2 +1,10 @@
-# HacktoberfestRepo_2022
-You can add any Python programs to this repository for Hacktober Fest 2022 #hacktoberfest #hacktoberfest2022
+## HacktoberfestRepo_2022
+
+##👉 Add any project or algorithm in any programming language
+-🪄 C
+-🪄 C++
+-🪄 C#
+-🪄 PHP
+-🪄 Java
+-🪄 Python
+-🪄 Javascript
