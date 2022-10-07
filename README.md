@@ -1,6 +1,6 @@
 # HacktoberfestRepo_2022
 
-# 👉 Add any project or algorithm in any programming language
+## 👉 Add any project or algorithm in any programming language
 -🪄 C
 -🪄 C++
 -🪄 C#
@@ -9,20 +9,20 @@
 -🪄 Python
 -🪄 Javascript
 
-#In each respective folder on any topic, don't forget to read the rules below to get your pull request accepted.
-
+## In each respective folder on any topic, don't forget to read the rules below to get your pull request accepted.
+ 
 Contribute anything to this repo
 
 ![image](https://user-images.githubusercontent.com/83506458/194625678-fd699b37-4aa9-48df-9dc3-a8165192618d.png)
 
-#🛠 Welcome to Hacktobefest 2022 Event
+## 🛠 Welcome to Hacktobefest 2022 Event
 How To Contribute
 ⌛️ In order to do successful contribution you must read the rules at the bottom; all pull requests will be accepted by those who correctly submitted their PR.
 
 ⌛️ Patience is key! If the pull request is not merged, tell me in the comment section!
 
 
-#🛡 Rules
+## 🛡 Rules
 ⚔️ Add link of the problem as comments in the code if contributing solution of any problems from Leetcode, GeekForGeeks, Codechef or Codeforces, etc. No need to add entire main function.
 ⚔️ Dont forget to star this repository and follow me for successful merge.
 ⚔️ Please put your Name and Github id as comments at top of the code file to get accepted.
@@ -39,4 +39,4 @@ How To Contribute
 ⚔️ Always make more than 4 total pull requests for hacktoberfest for safer side.
 
 
-#🖥️ Happy Hacking...
+## 🖥️ Happy Hacking...
