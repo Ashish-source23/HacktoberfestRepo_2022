@@ -29,3 +29,5 @@ y_predicted = naive_bayes.predict(X_test)
 from sklearn import metrics
  
 metrics.accuracy_score(y_predicted , y_test)
+
+#adding changes
