@@ -1,4 +1,4 @@
-#!/home/fury/anaconda3/bin/python
+#!
 from numba import jit
 import sys
 @jit(nopython=True)
