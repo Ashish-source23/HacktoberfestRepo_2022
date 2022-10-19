@@ -1,3 +1,8 @@
+// name - Sneha
+// username - Sneha0281
+
+// problem statement : https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
 #include<bits/stdc++.h>
 using namespace std;
 
