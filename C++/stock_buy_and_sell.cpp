@@ -2,6 +2,7 @@
 // username - Sneha0281
 
 // problem statement : https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+// Time complexity = O(n)
 
 #include<bits/stdc++.h>
 using namespace std;
